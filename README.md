@@ -1,3 +1,1 @@
-# wordpresscode
-# sourcecodewordpress
 # wordpress
